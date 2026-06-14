@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FinCoreBank.API/FinCoreBank.API.csproj" />
+  <Project Path="FinCoreBank.Application/FinCoreBank.Application.csproj" />
+  <Project Path="FinCoreBank.Domain/FinCoreBank.Domain.csproj" />
+  <Project Path="FinCoreBank.Infrastructure/FinCoreBank.Infrastructure.csproj" />
+  <Project Path="FinCoreBank.Tests/FinCoreBank.Tests.csproj" />
+</Solution>
